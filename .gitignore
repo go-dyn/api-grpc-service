@@ -1,2 +1,5 @@
 .vscode
 .cache/
+swagger/OpenAPI/
+*.pb.go
+*.pb.gw.go
